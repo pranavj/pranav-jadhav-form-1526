@@ -1,0 +1,83 @@
+footer {
+	text-align: center;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	font-family: 'Crete Round', serif;
+}
+
+footer a:link {
+	color: white;
+}
+
+body {
+	background-image: url('../images/background.png');
+	font-family: 'Noto Sans', sans-serif !important;
+}
+
+.nav-buttons {
+	margin-top: 2%;
+	margin-bottom: 2%;
+	font-family: 'Crete Round', serif;
+}
+
+.info-panel {
+	background-color: rgba(0, 0, 0, 0.4);
+	padding: 4%;
+	margin-bottom: 3%;
+	color: white;
+}
+
+.alert-custom {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+	color: white !important;
+	font-family: 'Noto Sans', sans-serif !important;
+}
+
+.text-input {
+	background-color: rgba(255, 255, 255, 0.4);
+	color: black;
+	border: 0;
+	outline: 0;
+	border-radius: 2px;
+	padding: 3%;
+}
+
+.enter-info {
+	opacity: 1.0;
+}
+
+.panel-label {
+	font-size: 130%;
+}
+
+.nav-buttons {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+	color: white !important;
+}
+
+nav {
+	margin: 2%;
+}
+
+.nav-buttons a:link,
+a:visited {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+	color: white !important;
+	font-size: 130%;
+}
+
+.submit-button {
+	background-color: rgba(0, 0, 0, 0.4) !important;
+	color: white !important;
+	border: none;
+	border-radius: 5%;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 150%;
+	font-family: 'Crete Round', serif;
+}
